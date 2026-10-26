@@ -1,6 +1,6 @@
 <!-- ░░ HEADER ░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:2a0a5e,100:00e5ff&height=230&section=header&text=SYAZRIN%20AMZAR&fontSize=56&fontColor=e6faff&fontAlign=50&fontAlignY=42&desc=trixnity%20%2F%2F%20software%20engineer%20in%20progress&descSize=16&descAlignY=62&animation=twinkling&stroke=00e5ff&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:2a0a5e,100:00e5ff&height=230&section=header&text=SYAZRIN%20AMZAR&fontSize=56&fontColor=e6faff&fontAlign=50&fontAlignY=42&desc=trixnity%20%2F%2F%20Develop%20Ikut%20Otak%20Bukan%20Tekak&descSize=16&descAlignY=62&animation=twinkling&stroke=00e5ff&strokeWidth=1" width="100%" />
 </p>
 
 <p align="center">
