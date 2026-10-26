@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/trixnity">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=620&lines=%3E+booting+trixnity.sys+...;%3E+Software+Engineering+%40+UMT;%3E+Intern+%2F%2F+building+an+education+aid+portal;%3E+code.+ship.+repeat." alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=620&lines=%3E+booting+trixnity.sys+...;%3E+Software+Engineering;%3E+Penanam+anggur;%3E+code.+ship.+repeat." alt="typing intro" />
   </a>
 </p>
 
@@ -22,9 +22,9 @@
 ```ts
 const trixnity = {
   name:       "Muhammad Syazrin Amzar",
-  education:  "BCS (Software Engineering) — Universiti Malaysia Terengganu",
-  mission:    "Internship — building a web portal for education aid applications",
-  focus:      ["web systems", "clean UI", "shipping things that people actually use"],
+  education:  "BCS (Software Engineering)",
+  mission:    "T",
+  focus:      ["web systems", "clean UI", "Develop ikut otak bukan tekak"],
   currently:  "learning by breaking things in staging, not production",
 };
 ```
