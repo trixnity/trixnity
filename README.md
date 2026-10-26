@@ -63,3 +63,5 @@ const trixnity = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:2a0a5e,100:0d0221&height=110&section=footer" width="100%" />
 </p>
+
+Boleh awak dekatkan sikit gap di antara develop ikut otak bukan tekak, booting trixnity.sys tu
